@@ -1,6 +1,4 @@
-package  com.company;
-import java.util.Scanner;
-
+import  java.util.Scanner;
         public class hm3ex1 {
             public static void main(String[] args) {
           
